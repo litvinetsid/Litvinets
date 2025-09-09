@@ -1,3 +1,8 @@
 some text (br1)
 Some NEW text 
-branch 1 changes
+master branch changes
+
+
+Тут был Константин
+
+До свидания!
