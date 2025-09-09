@@ -1,3 +1,3 @@
-some text
+some text (br1)
 Some NEW text 
-master branch changes
+branch 1 changes
