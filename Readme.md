@@ -6,7 +6,3 @@ master branch changes
 Тут был Константин
 
 До свидания!
-
-
-
-ew;krjqwodkfnsldknfskdf;klsdflkn
